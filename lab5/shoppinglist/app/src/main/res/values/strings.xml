@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="activity2_name">Items</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="apples">Apples</string>
+    <string name="bread">Bread</string>
+    <string name="earphone">Earphone</string>
+    <string name="samsung">Samsung</string>
+    <string name="keyboard">Key Board</string>
+    <string name="mouse">Mouse</string>
+    <string name="iphone">Iphone</string>
+    <string name="oppo">Oppo</string>
+    <string name="add_item">Add Item</string>
+
+</resources>
